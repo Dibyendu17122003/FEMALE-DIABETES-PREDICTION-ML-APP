@@ -7,8 +7,9 @@
 </div>
 
 <div align="center">
+  
+**⚡ Real-time AI Predictions • 📊 Interactive Dashboard • 🎯 90% Accuracy • 🤖 Machine Learning Powered**
 
-✨ **For comprehensive documentation, source code, and technical insights, explore the main repository** ✨
 
 </div>
 
@@ -20,7 +21,7 @@
 
 <div align="center">
 
-**⚡ Real-time AI Predictions • 📊 Interactive Dashboard • 🎯 90% Accuracy • 🤖 Machine Learning Powered**
+✨ **For comprehensive documentation, source code, and technical insights, explore the main repository** ✨
 
 </div>
 
