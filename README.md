@@ -10,14 +10,13 @@
 
 ✨ **For comprehensive documentation, source code, and technical insights, explore the main repository** ✨
 
-[![FEMALE-DIABETES-PREDICTION-ML](https://img.shields.io/badge/📂_FEMALE--DIABETES--PREDICTION--ML-REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dibyendu17122083/FEMALE-DIABETES-PREDICTION-ML)
+[![FOR DETAILED TRAING PROCESS](https://img.shields.io/badge/📂_FEMALE--DIABETES--PREDICTION--ML-REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dibyendu17122003/FEMALE-DIABETES-PREDICTION-ML/blob/main/Diabetes%20Prediction.ipynb)
 
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
 
-[![Open in Streamlit](https://img.shields.io/badge/🌐_Open_in_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://female-diabetes-prediction-ml-app-dibyendu.streamlit.app/)
-[![View on GitHub](https://img.shields.io/badge/💻_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dibyendu17122083/FEMALE-DIABETES-PREDICTION-ML)
+[![View on GitHub](https://img.shields.io/badge/💻_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dibyendu17122003/FEMALE-DIABETES-PREDICTION-ML)
 
 </div>
 
