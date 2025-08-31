@@ -10,8 +10,6 @@
 
 ✨ **For comprehensive documentation, source code, and technical insights, explore the main repository** ✨
 
-[![FOR DETAILED TRAING PROCESS](https://img.shields.io/badge/📂_FEMALE--DIABETES--PREDICTION--ML-REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dibyendu17122003/FEMALE-DIABETES-PREDICTION-ML/blob/main/Diabetes%20Prediction.ipynb)
-
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
